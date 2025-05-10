@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Developer | Passionate Learner | Code Explorer|Loves working on Research papers</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=brightgreen" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=brightgreen" alt="Aayushman-Gupta" />
 </p>
 
 ---
