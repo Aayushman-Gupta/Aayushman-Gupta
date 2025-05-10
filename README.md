@@ -32,7 +32,7 @@ Here are some of the repositories I’ve uploaded:
 
 - 📁 [School Sphere](https://github.com/Aayushman-Gupta/SchoolSphere) – A full-stack project where any educational organization can manage its data and perform all necessary tasks  
 - 📁 [Aayutan](https://github.com/Aayushman-Gupta/Aayutan_head) – A complete healthcare platform providing essential services  
-- 📁 [Face Mask Detection](https://github.com/Aayushman-Gupta/Face_mask_detection) – Real-time computer vision app that detects if a person is wearing a mask, built with Python, OpenCV & PyTorch
+- 📁 [Face Mask Detection](https://github.com/Aayushman-Gupta/Face_mask_detection) – Real-time computer vision app that detects if a person is wearing a mask, built with Python & PyTorch
 
 > ✨ More projects coming soon as I keep learning!
 
