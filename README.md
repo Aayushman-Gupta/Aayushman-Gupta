@@ -30,8 +30,8 @@
 Here are some of the repositories I’ve uploaded:
 
 - 📁 School Sphere(https://github.com/Aayushman-Gupta/SchoolSphere) – *It is a fullstack project where any educational organization can manage its data and perform all the necessary tasks*
-- 📁 Aayutan(https://github.com/your-username/project2) – *A complete healthCare prjoect provifing the necessary services*
-- 📁 FaceMask Detection model(https://github.com/your-username/project3) – *A real-time computer vision application that automatically detects whether a person is wearing a face mask. Built with Python, OpenCV, and Pytorch, it can process both live webcam video feeds and static images.*
+- 📁 Aayutan(https://github.com/Aayushman-Gupta/Aayutan_head) – *A complete healthCare prjoect provifing the necessary services*
+- 📁 FaceMask Detection model(https://github.com/Aayushman-Gupta/Face_mask_detection) – *A real-time computer vision application that automatically detects whether a person is wearing a face mask. Built with Python, OpenCV, and Pytorch, it can process both live webcam video feeds and static images.*
 
 > ✨ More projects coming soon as I keep learning!
 
