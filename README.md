@@ -37,13 +37,6 @@ Here are some of the repositories I’ve uploaded:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="your-username" />
-</p>
-
----
 
 ### 🌐 Let's Connect!
 
