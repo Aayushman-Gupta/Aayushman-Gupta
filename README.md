@@ -42,5 +42,7 @@ Here are some of the repositories I’ve uploaded:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aayushman-gupta-28b2a2291/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:aayushmangupta780@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:aayushmangupta780@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
