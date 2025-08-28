@@ -1,40 +1,57 @@
-<h1 align="center">Hi 👋, I'm Aayushman</h1>
-<h3 align="center">Aspiring Developer | Passionate Learner | Code Explorer | Research Enthusiast</h3>
+<h1 align="center">Aayushman Gupta</h1>
+<h3 align="center">Computer Science Student | Full-Stack Developer | Research Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aayushman-Gupta&label=Profile%20Views&color=brightgreen" alt="Aayushman-Gupta" />
+  <a href="https://komarev.com/ghpvc/?username=Aayushman-Gupta&label=Profile%20Views&color=brightgreen" alt="Aayushman-Gupta" />
 </p>
 
 ---
 
-### 💡 About Me
+### 👋 About Me
 
-- 🌱 I’m currently learning *Python, JavaScript, C++, React, Django, PyTorch*
-- 🛠️ I’ve uploaded projects that I’m building as I learn — check them out below!
-- 🎯 My goal is to keep improving every day by exploring new tech and building small real-world apps
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/aayushman-gupta-28b2a2291/)  
-- ⚡ Fun fact: I believe progress > perfection. Consistency is key!
-- 🧩 Me in short: Quick Learner | Enthusiast | Versatile
+I'm a B.Tech student in Computer Science and Engineering at IIIT Sonepat, passionate about building scalable full-stack applications and exploring cutting-edge research in computer science. With a strong foundation in data structures, algorithms, and system design, I love tackling complex problems and creating real-world solutions.
 
----
-
-### 🧰 My Toolbox
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" alt="Tech icons" />
-</p>
+- 🎓 **Education:** Indian Institute of Information Technology (IIIT) Sonepat
+- 💻 **Experience:** I have hands-on experience in full-stack development and research, with a focus on real-time systems, concurrency, and network protocols.
+- 🏆 **Achievements:**
+  - Solved 450+ algorithmic problems on platforms like LeetCode and HackerRank, achieving a rating of 1750+.
+  - Ranked 4th in the HackZilla Hackathon, building a full-stack solution in under 24 hours.
+  - 2x Chess Gold Medalist in the intra-college sports championship.
 
 ---
 
-### 📂 My Projects on GitHub
+### 🧰 Technical Skills
 
-Here are some of the repositories I’ve uploaded:
+- **Languages:** C, C++, Java, Python, JavaScript, SQL, HTML, CSS
+- **Frameworks:** React.js, Django, Node.js, Express.js, REST APIs
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Concepts:** DSA, OOP, OS, DBMS, Computer Networks, Compiler Design, Big Data Analytics
+- **Tools:** Git, GitHub, Postman, PgAdmin, VS Code, Linux (Bash scripting)
 
-- 📁 [School Sphere](https://github.com/Aayushman-Gupta/SchoolSphere) – A full-stack project where any educational organization can manage its data and perform all necessary tasks  
-- 📁 [Aayutan](https://github.com/Aayushman-Gupta/Aayutan_head) – A complete healthcare platform providing essential services  
-- 📁 [Face Mask Detection](https://github.com/Aayushman-Gupta/Face_mask_detection) – Real-time computer vision app that detects if a person is wearing a mask, built with Python & PyTorch
+---
 
-> ✨ More projects coming soon as I keep learning!
+### 🚀 Projects
+
+#### **Mela Safe** | Real-Time Stampede Prevention System
+* **Tech Stack:** Django, React, C++, Python, NumPy
+* **Description:** Designed a system to handle 100,000+ individuals by integrating pathfinding algorithms and an LSTM model for crowd movement prediction. The system achieved over 90% temporal accuracy in predicting congestion zones and reduced potential congestion by up to 40% in simulations.
+
+#### **Multithreaded Stock Price Simulator** | C++, Concurrency
+* **Tech Stack:** C++, Concurrency, Producer-Consumer
+* **Description:** Spearheaded a producer-consumer based simulator where multiple threads generate and process live stock price updates in real-time. The system was architected with a thread-safe queue, achieving 100% race-free execution and a 40% performance improvement over naive synchronization methods.
+
+#### **TrainMe** | Full-Stack Course Selling Platform
+* **Tech Stack:** React, Django, PostgreSQL
+* **Description:** Developed a scalable platform supporting over 1000 concurrent users. Implemented real-time filtering and keyword-based search that improved course discovery by 60%, and managed over 10K user-course records with a normalized database schema.
+
+---
+
+### 📚 Research & Internships
+
+- **Research Internship:** TOPSIS Integrated Neutrosophic MCDM, IIIT Sonepat
+  - Developed a decision-making framework combining Neutrosophic Set Theory with TOPSIS for evaluating IoT solutions.
+- **Research Assistant:** Wireless Sensor Networks, IIIT Sonepat
+  - Conducted research on energy-efficient clustering protocols, implementing a C++ solution that improved network lifetime by 28%.
 
 ---
 
