@@ -1,46 +1,61 @@
-# 📊 Live Stock Price Simulator & Dashboard
+# 👋 Hey there, I'm Aayushman!  
 
-A **real-time stock dashboard** built with **React + Vite**, streaming stock prices over **WebSockets** and visualized using **Recharts**.  
-If the WebSocket server is unavailable, the app gracefully switches to **mock data mode** so the UI always stays alive.
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" />
 
----
-
-## ✨ Features
-
-- ⚡ **Real-time WebSocket Streaming** – Live stock updates with every tick  
-- 🎨 **Dark-Themed Modern UI** – Responsive dashboard styled with **TailwindCSS**  
-- 📈 **Interactive Charts** – Area & line charts with smooth curves, shaded trends, tooltips, and legends  
-- 📉 **20-Period Moving Average** – Overlayed on stock charts for trend analysis  
-- 🔄 **Automatic Mock Fallback** – Backend down? Generates realistic random stock data  
-- 📱 **Responsive Design** – Works seamlessly on desktop, tablet, and mobile  
+🎓 CS/IT Enthusiast | 💻 Developer | 📊 AI & Data Science Learner  
+I love building **scalable web apps**, **real-time systems**, and exploring **AI/ML models**.  
 
 ---
 
-## 🖼️ Demo Preview
+## 🌟 About Me  
+- 🔭 Currently working on: **Stock Price Simulator (React + WebSocket + C++)**  
+- 🌱 Learning: **Machine Learning, System Design, and Cloud**  
+- ⚡ Fun fact: I debug with ☕ + 🎶  
+- 🎨 Passionate about: **Beautiful UIs + Smart Backends**  
+
+---
+
+## 🚀 Tech Stack  
+
+### 🖥️ Languages & Frameworks  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)  
+
+### 🎨 Styling & Tools  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=recharts&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+---
+
+## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="demo/dashboard.png" alt="Dashboard Preview" width="49%">
-  <img src="demo/stock-cards.png" alt="Stock Cards" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Fun Animations  
 
-### Frontend
-- ⚛️ [React](https://reactjs.org/) (via [Vite](https://vitejs.dev/)) – Lightning-fast development  
-- 🎨 [TailwindCSS](https://tailwindcss.com/) – Utility-first styling  
-- 📊 [Recharts](https://recharts.org/) – Beautiful charts  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
 
-### Backend
-- 💻 C++ Stock Simulator  
-- 🔌 WebSocket server at `ws://localhost:9002`  
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Fun Coding Sticker" />
+</p>
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/stock-price-simulator.git
-cd stock-price-simulator
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
