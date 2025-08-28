@@ -35,8 +35,8 @@ I love building **scalable web apps**, **real-time systems**, and exploring **AI
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayushman-creator&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushman-creator&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayushman-Gupta&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushman-Gupta&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
 
 ---
