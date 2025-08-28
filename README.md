@@ -17,6 +17,7 @@ I love building **scalable web apps**, **real-time systems**, and exploring **AI
 
 ## 🚀 Tech Stack  
 
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" />
 ### 🖥️ Languages & Frameworks  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
