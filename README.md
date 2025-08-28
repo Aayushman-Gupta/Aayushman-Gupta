@@ -1,163 +1,99 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aayushman Gupta</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #0f172a;
-            color: #e2e8f0;
-            line-height: 1.6;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 2rem;
-        }
-        .card {
-            background-color: #1a202c;
-            border-radius: 1.5rem;
-            padding: 2rem;
-            margin-bottom: 2rem;
-            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
-        }
-        .fade-in {
-            opacity: 0;
-            animation: fadeInAnimation 1s ease-in forwards;
-        }
-        @keyframes fadeInAnimation {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-        .delay-1 { animation-delay: 0.2s; }
-        .delay-2 { animation-delay: 0.4s; }
-        .delay-3 { animation-delay: 0.6s; }
-        .delay-4 { animation-delay: 0.8s; }
-        .delay-5 { animation-delay: 1.0s; }
-        .icon {
-            display: inline-block;
-            vertical-align: middle;
-            margin-right: 8px;
-        }
-        .project-card:hover .project-title {
-            color: #63b3ed;
-        }
-        .icon-lg {
-            width: 24px;
-            height: 24px;
-        }
-    </style>
-</head>
-<body>
+<h1 align="center">Hey 👋, I'm Aayushman Gupta</h1>
+<h3 align="center">🚀 Developer | 🧠 Researcher | ⚡ Problem Solver</h3>
 
-<div class="container">
-    <!-- Header Section -->
-    <header class="text-center mb-12 fade-in">
-        <div class="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden border-4 border-gray-600">
-            <img src="https://placehold.co/128x128/334155/e2e8f0?text=AG" alt="Aayushman Gupta" class="w-full h-full object-cover">
-        </div>
-        <h1 class="text-4xl font-bold text-white mb-2">Aayushman Gupta</h1>
-        <h3 class="text-xl text-gray-400 font-semibold">Computer Science Student | Full-Stack Developer | Research Enthusiast</h3>
-    </header>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=1E90FF&center=true&vCenter=true&lines=Full-Stack+Developer;Systems+and+Concurrency+Enthusiast;AI%2FML+Learner;Always+Building+%26+Breaking+Things" />
+</p>
 
-    <!-- About Me Section -->
-    <div class="card fade-in delay-1">
-        <h2 class="text-2xl font-bold mb-4 flex items-center">
-            <svg class="icon icon-lg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"></path>
-                <circle cx="12" cy="7" r="4"></circle>
-            </svg>
-            About Me
-        </h2>
-        <p class="text-gray-300">
-            I'm a B.Tech student in Computer Science and Engineering at IIIT Sonepat, passionate about building scalable full-stack applications and exploring cutting-edge research in computer science. With a strong foundation in data structures, algorithms, and system design, I love tackling complex problems and creating real-world solutions.
-        </p>
-        <ul class="mt-4 space-y-2 text-gray-400">
-            <li><span class="font-semibold text-white">Education:</span> Indian Institute of Information Technology (IIIT) Sonepat</li>
-            <li><span class="font-semibold text-white">Experience:</span> I have hands-on experience in full-stack development and research, with a focus on real-time systems, concurrency, and network protocols.</li>
-            <li><span class="font-semibold text-white">Achievements:</span>
-                <ul class="list-disc list-inside ml-4">
-                    <li>Solved 450+ algorithmic problems on platforms like LeetCode and HackerRank, achieving a rating of 1750+.</li>
-                    <li>Ranked 4th in the HackZilla Hackathon, building a full-stack solution in under 24 hours.</li>
-                    <li>2x Chess Gold Medalist in the intra-college sports championship.</li>
-                </ul>
-            </li>
-        </ul>
-    </div>
+---
 
-    <!-- Technical Skills Section -->
-    <div class="card fade-in delay-2">
-        <h2 class="text-2xl font-bold mb-4 flex items-center">
-            <svg class="icon icon-lg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M6 8l-2 5h-2l5 2l-2 5h2l5-2l5 2h2l-2-5l5-2l-2-5h-2l-5 2z"></path>
-            </svg>
-            Technical Skills
-        </h2>
-        <div class="grid grid-cols-2 sm:grid-cols-3 gap-4 text-center">
-            <div class="p-3 bg-slate-800 rounded-lg">C, C++, Java, Python</div>
-            <div class="p-3 bg-slate-800 rounded-lg">JavaScript, SQL, HTML, CSS</div>
-            <div class="p-3 bg-slate-800 rounded-lg">React.js, Django, Node.js</div>
-            <div class="p-3 bg-slate-800 rounded-lg">PostgreSQL, MongoDB, MySQL</div>
-            <div class="p-3 bg-slate-800 rounded-lg">Git, GitHub, VS Code</div>
-            <div class="p-3 bg-slate-800 rounded-lg">DSA, OOP, OS, DBMS</div>
-        </div>
-    </div>
+## 👨‍💻 About Me  
+- 🎓 B.Tech CSE @ IIIT Sonepat (CGPA: 8.7)  
+- 💡 Solved **450+ DSA problems**, rated **1750+** on LeetCode contests  
+- 🏆 **HackZilla Hackathon (4/100+ teams)**  
+- 🎯 Love working on **Concurrency, OS, DBMS, System Design, and AI**  
+- ♟️ 2× Chess Gold Medalist (Agnito’24 & Agnito’25)  
 
-    <!-- Projects Section -->
-    <div class="card fade-in delay-3">
-        <h2 class="text-2xl font-bold mb-4 flex items-center">
-            <svg class="icon icon-lg" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M12 2L2 7l10 5l10-5l-10-5zM2 17l10 5l10-5M2 12l10 5l10-5"></path>
-            </svg>
-            Projects
-        </h2>
-        <div class="space-y-6">
-            <div class="project-card card bg-gray-800 transition-colors duration-300 hover:bg-gray-700 p-6 rounded-xl">
-                <h3 class="text-xl font-semibold mb-2 project-title">Mela Safe | Real-Time Stampede Prevention System</h3>
-                <p class="text-gray-400 text-sm mb-2">**Tech Stack:** Django, React, C++, Python, NumPy</p>
-                <p class="text-gray-300">
-                    Designed a system to handle 100,000+ individuals by integrating pathfinding algorithms and an LSTM model for crowd movement prediction. The system achieved over 90% temporal accuracy in predicting congestion zones and reduced potential congestion by up to 40% in simulations.
-                </p>
-            </div>
-            <div class="project-card card bg-gray-800 transition-colors duration-300 hover:bg-gray-700 p-6 rounded-xl">
-                <h3 class="text-xl font-semibold mb-2 project-title">Multithreaded Stock Price Simulator | C++, Concurrency</h3>
-                <p class="text-gray-400 text-sm mb-2">**Tech Stack:** C++, Concurrency, Producer-Consumer</p>
-                <p class="text-gray-300">
-                    Spearheaded a producer-consumer based simulator where multiple threads generate and process live stock price updates in real-time. The system was architected with a thread-safe queue, achieving 100% race-free execution and a 40% performance improvement over naive synchronization methods.
-                </p>
-            </div>
-            <div class="project-card card bg-gray-800 transition-colors duration-300 hover:bg-gray-700 p-6 rounded-xl">
-                <h3 class="text-xl font-semibold mb-2 project-title">TrainMe | Full-Stack Course Selling Platform</h3>
-                <p class="text-gray-400 text-sm mb-2">**Tech Stack:** React, Django, PostgreSQL</p>
-                <p class="text-gray-300">
-                    Developed a scalable platform supporting over 1000 concurrent users. Implemented real-time filtering and keyword-based search that improved course discovery by 60%, and managed over 10K user-course records with a normalized database schema.
-                </p>
-            </div>
-        </div>
-    </div>
+---
 
-    <!-- Contact Section -->
-    <div class="card text-center fade-in delay-5">
-        <h2 class="text-2xl font-bold mb-4">Let's Connect!</h2>
-        <div class="flex justify-center space-x-4">
-            <a href="https://www.linkedin.com/in/aayushman-gupta-28b2a2291/" target="_blank" rel="noopener noreferrer">
-                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-            </a>
-            <a href="mailto:aayushmangupta780@gmail.com">
-                <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-            </a>
-        </div>
-    </div>
-</div>
+## 🛠️ Tech Stack
 
-</body>
-</html>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,react,tailwind,django,postgres,mongodb,mysql,git,linux,bash" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 Mela Safe – Real-Time Stampede Prevention  
+[🔗 Repo](https://github.com/Aayushman-Gupta/MelaSafe.git)  
+Django • React • C++ • LSTM  
+- Real-time crowd monitoring for **100,000+ people**  
+- LSTM model predicts congestion zones with **90%+ accuracy**  
+- Pathfinding with **A* and Dijkstra** reduces congestion by **40%**  
+- Backend fault tolerance of **85%+ uptime**  
+
+<p align="center">
+  <img src="demo/melasafe_demo.gif" width="600" />
+</p>
+
+---
+
+### 📈 Multithreaded Stock Price Simulator  
+[🔗 Repo](https://github.com/Aayushman-Gupta/Multithreaded-Stock-Price-Simulator)  
+C++ • Concurrency • React • WebSockets  
+- Producer–Consumer system with **5 producers & 3 consumers**  
+- Thread-safe queue with mutex + condition variables  
+- Achieved **40% performance boost** vs naive sync  
+- Moving average detection + **10K+ transactions/day** logging  
+
+<p align="center">
+  <img src="demo/stock_demo.gif" width="600" />
+</p>
+
+---
+
+### 🎓 TrainMe – Course Selling Platform  
+[🔗 Repo](https://github.com/Aayushman-Gupta/TrainMe.git)  
+React • Django • PostgreSQL  
+- Scales to **1000+ concurrent users**  
+- Real-time filtering & search improves discovery by **60%**  
+- Optimized relational schema handles **10K+ user-course records**  
+
+---
+
+### 🧮 Research Projects
+- [🔗 TOPSIS Neutrosophic MCDM](https://github.com/Aayushman-Gupta/TOPSIS-integrated-Neutrosophic-MCDM-research-work-for-IoT-enterprises)  
+  Decision-making framework with **Neutrosophic Sets + TOPSIS** → Identified Spark as most robust IoT framework.  
+
+- [🔗 Energy Efficient WSN](https://github.com/Aayushman-Gupta/Energy_Efficient-_WSN_Implemenation_using_CPP-ML)  
+  Implemented **clustering protocols** in C++ → improved network lifetime by **28%**.  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayushman-Gupta&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushman-Gupta&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushman-Gupta&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayushman-gupta-28b2a2291/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/Aayushman-Gupta"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:aayushmangupta780@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://leetcode.com/u/Aayushman_/"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode" /></a>
+  <a href="https://www.hackerrank.com/profile/aayushmangupta71"><img src="https://img.shields.io/badge/HackerRank-brightgreen?style=flat&logo=hackerrank" /></a>
+</p>
+
+---
+
+✨ *“Code, Learn, Repeat — that’s the game plan.”* ✨
