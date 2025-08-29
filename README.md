@@ -42,7 +42,7 @@ I love building **scalable web apps**, **real-time systems**, and exploring **AI
 
 ---
 
-## ✨ Fun Animations  
+## ✨ My passions  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
