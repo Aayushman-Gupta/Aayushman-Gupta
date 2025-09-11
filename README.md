@@ -8,7 +8,7 @@ I love building **scalable web apps**, **real-time systems**, and exploring **AI
 ---
 
 ## 🌟 About Me  
-- 🔭 Currently working on: **Stock Price Simulator (React + WebSocket + C++)**  
+- 🔭 Currently working on: **Reinforcement Learning**  
 - 🌱 Learning: **Machine Learning, System Design, and Cloud**  
 - ⚡ Fun fact: I debug with ☕ + 🎶  
 - 🎨 Passionate about: **Beautiful UIs + Smart Backends**  
