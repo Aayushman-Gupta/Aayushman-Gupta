@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 ---
 ## 🌟 About Me  
-- 🔭 Currently working on: **Reinforcement Learning**  
+- 🔭 Currently working on: **Reinforcement Learning**  </br>
 - 🌱 Learning: **Machine Learning, System Design, and Cloud**  
 - ⚡ Fun fact: I debug with ☕ + 🎶  
 - 🎨 Passionate about: **Beautiful UIs + Smart Backends**  
