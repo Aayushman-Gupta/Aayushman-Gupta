@@ -4,7 +4,7 @@
 
 ## 🌟 About Me  
 - 🔭 Currently working on: **Reinforcement Learning**  </br>
-- 🌱 Learning: **Machine Learning, System Design, and Cloud**  
+- 🌱 Learning: **Machine Learning,FullStack Development and Linux**  
 - ⚡ Fun fact: I debug with ☕ + 🎶  
 - 🎨 Passionate about: **Beautiful UIs + Smart Backends** - 🎯 Goal: **Building impactful AI-driven applications**  
 - 📝 Occasionally write about: **Tech, Research, and Learning Journeys**
