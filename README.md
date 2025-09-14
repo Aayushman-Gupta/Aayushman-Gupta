@@ -68,10 +68,6 @@
 <h2 align="center"> Aayushman Gupta's GitHub Stats </h2>
 
 <div align="center">
-
-<!-- Top Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Aayushman-Gupta&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=radical&bg_color=000000&title_color=ff0080&text_color=00eaff&icon_color=ffcc00" height="180"/>
-
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Aayushman-Gupta&theme=radical&hide_border=true&background=000000&ring=ff0080&fire=ff0080&currStreakLabel=ffcc00&sideNums=00eaff&sideLabels=00eaff&dates=ff66cc" height="180"/>
 
