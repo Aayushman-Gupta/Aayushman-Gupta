@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Aayushman!  
-<img align="right" alt="Coding" width="300" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 ---
 ## 🌟 About Me  
 - 🔭 Currently working on: **Reinforcement Learning**  
