@@ -1,19 +1,6 @@
 # 👋 Hey there, I'm Aayushman!  
-<table>
-  <tr>
-    <td>
-      🎓 CS/IT Enthusiast | 💻 Developer | 📊 AI & Data Science Learner  
-      <br>
-      I love building **scalable web apps**, **real-time systems**, and exploring **AI/ML models**.  
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200">
-    </td>
-  </tr>
-</table>  
-
+<img align="right" alt="Coding" width="300" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" />
 ---
-
 ## 🌟 About Me  
 - 🔭 Currently working on: **Reinforcement Learning**  
 - 🌱 Learning: **Machine Learning, System Design, and Cloud**  
