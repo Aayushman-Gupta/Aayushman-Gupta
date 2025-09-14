@@ -1,6 +1,7 @@
 # 👋 Hey there, I'm Aayushman!  
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 
 🎓 CS/IT Enthusiast | 💻 Developer | 📊 AI & Data Science Learner  
 I love building **scalable web apps**, **real-time systems**, and exploring **AI/ML models**.  
@@ -74,7 +75,7 @@ I love building **scalable web apps**, **real-time systems**, and exploring **AI
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" alt="Coding Fun" />
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="200" alt="Coding Fun" />
 </p>
 
 ---
