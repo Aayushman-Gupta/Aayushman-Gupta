@@ -63,9 +63,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
-
-<h2 align="center"> Aayushman Gupta's GitHub Stats </h2>
+## 📊 Aayushman Gupta's GitHub Stats
 
 <div align="center">
 
