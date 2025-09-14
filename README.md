@@ -18,7 +18,8 @@ I love building **scalable web apps**, **real-time systems**, and exploring **AI
 
 ## 🚀 Tech Stack  
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" />
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
+
 
 ### 🖥️ Languages & Frameworks  
 <p>
