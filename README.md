@@ -30,7 +30,6 @@ I love building **scalable web apps**, **real-time systems**, and exploring **AI
   <img src="https://raw.githubusercontent.com/recharts/recharts.org/master/assets/img/logo.png" height="50" alt="Recharts" />
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats & Activity  
@@ -40,10 +39,10 @@ I love building **scalable web apps**, **real-time systems**, and exploring **AI
 <div align="center">
 
 <!-- Top Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=anuragdaksh&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=radical&bg_color=000000&title_color=ff0080&text_color=00eaff&icon_color=ffcc00" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aayushman-Gupta&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=radical&bg_color=000000&title_color=ff0080&text_color=00eaff&icon_color=ffcc00" height="180"/>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anuragdaksh&theme=radical&hide_border=true&background=000000&ring=ff0080&fire=ff0080&currStreakLabel=ffcc00&sideNums=00eaff&sideLabels=00eaff&dates=ff66cc" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aayushman-Gupta&theme=radical&hide_border=true&background=000000&ring=ff0080&fire=ff0080&currStreakLabel=ffcc00&sideNums=00eaff&sideLabels=00eaff&dates=ff66cc" height="180"/>
 
 </div>
 
@@ -52,13 +51,13 @@ I love building **scalable web apps**, **real-time systems**, and exploring **AI
 <div align="center">
 
 <!-- GitHub Contributions Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragdaksh&bg_color=000000&color=ff0080&line=00eaff&point=ffcc00&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayushman-Gupta&bg_color=000000&color=ff0080&line=00eaff&point=ffcc00&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-### 📊 Quick Stats
+### ⚡ Quick Stats (Manual)
 - ⭐ **Total Stars Earned**: 9  
 - 📝 **Total Commits (2025)**: 314  
 - 🔀 **Total PRs**: 94  
@@ -68,13 +67,7 @@ I love building **scalable web apps**, **real-time systems**, and exploring **AI
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuragdaksh&color=ff0080&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
-
----
-
-## ✨ My passions  
+## ✨ My Passions  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
