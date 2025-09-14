@@ -88,13 +88,15 @@
 
 ---
 
-### ⚡ Quick Stats (Manual)
-- ⭐ **Total Stars Earned**: 9  
-- 📝 **Total Commits (2025)**: 314  
-- 🔀 **Total PRs**: 94  
-- 👀 **Total PRs Reviewed**: 1  
-- 🐞 **Total Issues**: 21  
-- 📦 **Repositories Contributed to (last year)**: 5  
+### ⚡ Quick Stats (Auto)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayushman-Gupta&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushman-Gupta&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Aayushman-Gupta&theme=radical&hide_border=true)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aayushman-Gupta&color=blue)
+ 
 
 ---
 
