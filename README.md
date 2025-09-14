@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Aayushman!  
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/Aayushman-creator/assets/main/coding-illustration.svg" />
 
 🎓 CS/IT Enthusiast | 💻 Developer | 📊 AI & Data Science Learner  
 I love building **scalable web apps**, **real-time systems**, and exploring **AI/ML models**.  
