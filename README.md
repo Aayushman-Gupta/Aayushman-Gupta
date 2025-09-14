@@ -38,8 +38,6 @@ I love building **scalable web apps**, **real-time systems**, and exploring **AI
 ---
 
 ## 🚀 Tech Stack  
-<img align="right" alt="Tech Stack" width="320" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" />
-
 ### 🖥️ Languages & Frameworks  
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -65,11 +63,6 @@ I love building **scalable web apps**, **real-time systems**, and exploring **AI
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 
-### 🎨 Styling & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,git,linux" height="50" />
-  <img src="https://raw.githubusercontent.com/recharts/recharts.org/master/assets/img/logo.png" height="50" alt="Recharts" />
-</p>
 
 ---
 
