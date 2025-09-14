@@ -68,10 +68,7 @@
 <h2 align="center"> Aayushman Gupta's GitHub Stats </h2>
 
 <div align="center">
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Aayushman-Gupta&theme=radical&hide_border=true&background=000000&ring=ff0080&fire=ff0080&currStreakLabel=ffcc00&sideNums=00eaff&sideLabels=00eaff&dates=ff66cc" height="180"/>
 
-</div>
 
 ---
 
