@@ -19,7 +19,7 @@ I love building **scalable web apps**, **real-time systems**, and exploring **AI
 
 ### 🖥️ Languages & Frameworks  
 <p>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file#moving-logos-" height="50" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,vite" height="50" />
 </p>
 
 ### 🎨 Styling & Tools  
