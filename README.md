@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-## 🌟 About Me  
+## 🌟 About Me  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
 - 🔭 Currently working on: **Reinforcement Learning**  </br>
 - 🌱 Learning: **Machine Learning,FullStack Development and Linux**  
 - ⚡ Fun fact: I debug with ☕ + 🎶  
