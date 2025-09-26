@@ -102,6 +102,6 @@
 ## 📫 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/aayushman-gupta-28b2a2291/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aayushmangupta780L@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:aayushmangupta780@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/[Aayushman-creator](https://github.com/Aayushman-Gupta/)"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
